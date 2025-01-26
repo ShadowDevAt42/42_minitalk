@@ -8,6 +8,14 @@
 *.log
 *.log.*
 *.sig
+*.pdf
 
 pkg/
 src/
+.vscode/
+objs/
+
+client
+server
+client_bonus
+server_bonus
